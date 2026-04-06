@@ -1,0 +1,5 @@
+{
+  "name": "PatoChat",
+  "description": "Real-time chat overlay for Hugo, Paco, and Luis with duckling-themed interface and sound notifications.",
+  "requestFramePermissions": []
+}
